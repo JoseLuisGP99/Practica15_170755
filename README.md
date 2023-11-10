@@ -30,7 +30,7 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 15: Creacion de una Api Rest para la aplicacion del videojuego. |
+| Nombre  |  Practica 15: Implementacion de rutas y middelwares. |
 | Descripción  | En esta aplicación se empieza a hacer la creaccion del crud para el api que se utilizara para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora de la materia de videojuegos, las cuales son las siguientes funciones "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. |
 |  Fecha de Carga | 10/11/23  |
 
