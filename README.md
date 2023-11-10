@@ -14,14 +14,13 @@
 
 
 ## Capturas de Pantalla
-<p align="center">
+
   [![1.png](https://i.postimg.cc/brtqMpkL/1.png)](https://postimg.cc/WqsRqR9J)
   [![2.png](https://i.postimg.cc/5t2YrQ03/2.png)](https://postimg.cc/SnHx2sc2)
   [![4.png](https://i.postimg.cc/x8McmKx0/4.png)](https://postimg.cc/N2GsqrvV)
   [![3.png](https://i.postimg.cc/wM8B916n/3.png)](https://postimg.cc/341hBJ0Z)
   [![5.png](https://i.postimg.cc/KYCG51g4/5.png)](https://postimg.cc/FfgXrspQ)
   [![6.png](https://i.postimg.cc/h4LD9P4P/6.png)](https://postimg.cc/V5NPwwb3)
-</p>
 
 
 
